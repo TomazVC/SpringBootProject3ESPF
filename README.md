@@ -1,11 +1,8 @@
 # API ReST Auto-Escola - Checkpoint 1
 
 ## Integrantes do Grupo
-- [Nome do Integrante 1]
-- [Nome do Integrante 2]
-- [Nome do Integrante 3]
-- [Nome do Integrante 4]
-- [Nome do Integrante 5]
+- Rony Ken Nagai - RM: 551549
+- Tomáz Versolato Carballo - RM: 551417
 
 ## Descrição do Projeto
 
